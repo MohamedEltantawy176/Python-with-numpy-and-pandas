@@ -1,0 +1,8 @@
+Hello How are you ?
+I am good
+my name is mohamed
+welcome to the course
+This line is appended to the file.
+First line
+Second line
+Third line
